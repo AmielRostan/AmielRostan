@@ -15,6 +15,8 @@
 ![Spanish](https://img.shields.io/badge/Language-Spanish-informational?style=flat&logo=espanol&logoColor=white&color=FF5733)
 ![English](https://img.shields.io/badge/Language-English-informational?style=flat&logo=english&logoColor=white&color=1E90FF)
 ![Portuguese](https://img.shields.io/badge/Language-Portuguese-informational?style=flat&logo=portuguese&logoColor=white&color=008000)
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 
 
 
