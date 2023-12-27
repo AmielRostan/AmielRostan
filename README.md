@@ -12,7 +12,7 @@
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=black)
-![Spanish](https://img.shields.io/badge/Idioma-Español-informational?style=flat&logo=espanol&logoColor=white&color=FF5733)
+![Spanish](https://img.shields.io/badge/Language-Spanish-informational?style=flat&logo=espanol&logoColor=white&color=FF5733)
 
 
 <!--
