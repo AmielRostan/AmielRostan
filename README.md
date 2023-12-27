@@ -13,6 +13,9 @@
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=black)
 ![Spanish](https://img.shields.io/badge/Language-Spanish-informational?style=flat&logo=espanol&logoColor=white&color=FF5733)
+![English](https://img.shields.io/badge/Language-English-informational?style=flat&logo=english&logoColor=white&color=1E90FF)
+![Portuguese](https://img.shields.io/badge/Language-Portuguese-informational?style=flat&logo=portuguese&logoColor=white&color=008000)
+
 
 
 <!--
