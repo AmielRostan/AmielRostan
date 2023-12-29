@@ -37,14 +37,6 @@
 </div>
 
 
-<div style="display: flex; gap: 8px;">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmielRostan&layout=compact&langs_count=10&theme=dark" alt="Top Languages" width="48%" />
-
-  <!-- Daily Activity Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmielRostan&theme=dark" alt="Daily Activity" width="48%" />
-</div>
-
 
 
 
