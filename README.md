@@ -25,8 +25,9 @@
 🇧🇷 Portuguesse
 🇺🇸 English
 
-<!-- Top Languages Card with Percentages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmielRostan&layout=compact&langs_count=10)
+<!-- Top Languages Card with Dark Theme -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmielRostan&layout=compact&langs_count=10&theme=dark)
+
 
 
 
