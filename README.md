@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmielRostan&layout=compact&langs_count=10&theme=dark" alt="Top Languages" width="42%" />
 
   <!-- Daily Activity Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmielRostan&theme=dark" alt="Daily Activity" width="58%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmielRostan&theme=dark" alt="Daily Activity" width="56%" />
 
 </div>
 
