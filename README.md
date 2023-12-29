@@ -28,6 +28,15 @@
 <!-- GitHub Stats -->
 ![Amiel Rostán's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmielRostan&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs)
 
+<!-- Wakatime Stats -->
+<!-- Replace YOUR_USERNAME with your WakaTime username -->
+![Amiel Rostán's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmielRostan)
+
+<!-- Top Languages Card with Percentages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmielRostan&layout=compact&langs_count=10)
+
+
+
 
 <!--
 **AmielRostan/AmielRostan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
