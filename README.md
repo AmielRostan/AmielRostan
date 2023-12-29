@@ -1,13 +1,11 @@
 ### Hi there, I'm Amiel Rostán!👋
 
 - 💻 My environment is:
-- 
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![WSL](https://img.shields.io/badge/WSL-WSL-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 
 - 🎓 Technologies that I know:
-- 
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
@@ -16,7 +14,6 @@
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=black)
 
 - 🌱 I’m currently learning:
-- 
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![Node.js](https://img.shields.io/badge/Node.js-14.x-green?style=flat&logo=node.js&logoColor=white&color=339933)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
