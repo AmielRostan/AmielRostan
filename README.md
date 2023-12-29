@@ -26,7 +26,7 @@
 🇺🇸 English
 
 <!-- Top Languages Card with Dark Theme -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmielRostan&layout=compact&langs_count=10&theme=dark)![Daily Activity](https://github-readme-streak-stats.herokuapp.com/?user=AmielRostan&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmielRostan&layout=compact&langs_count=10&theme=dark" alt="Top Languages" width="48%" />![Daily Activity](https://github-readme-streak-stats.herokuapp.com/?user=AmielRostan&theme=dark)
 
 <div style="display: flex; justify-content: space-between;">
 
