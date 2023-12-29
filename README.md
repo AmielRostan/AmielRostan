@@ -45,7 +45,7 @@
   <div style="width: 2%;"></div>
 
   <!-- Daily Activity Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmielRostan&theme=dark" alt="Daily Activity" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmielRostan&theme=dark" alt="Daily Activity" width="54%" />
 
 </div>
 
