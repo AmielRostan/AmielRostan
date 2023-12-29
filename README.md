@@ -28,6 +28,13 @@
 <!-- Top Languages Card with Dark Theme -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmielRostan&layout=compact&langs_count=10&theme=dark)
 
+![Amiel Rostán's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=AmielRostan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
+![Daily Activity](https://github-readme-streak-stats.herokuapp.com/?user=AmielRostan&theme=dark)
+
+![Response Time](https://github-readme-response-time.herokuapp.com/?user=AmielRostan&theme=dark)
+
+
 <!--
 **AmielRostan/AmielRostan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
