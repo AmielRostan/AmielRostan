@@ -39,13 +39,13 @@
 <div style="display: flex; justify-content: space-between;">
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmielRostan&layout=compact&langs_count=10&theme=dark" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmielRostan&layout=compact&langs_count=10&theme=dark" alt="Top Languages" width="39%" />
 
   <!-- Espacio -->
   <div style="width: 2%;"></div>
 
   <!-- Daily Activity Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmielRostan&theme=dark" alt="Daily Activity" width="56%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmielRostan&theme=dark" alt="Daily Activity" width="55%" />
 
 </div>
 
